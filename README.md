@@ -71,4 +71,3 @@ gcloud run deploy crowdpulse-backend \
    ```
 
 ---
-Developed with ❤️ for IPL Fans by CrowdPulse AI Team.
