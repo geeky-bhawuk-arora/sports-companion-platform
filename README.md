@@ -53,7 +53,7 @@ gcloud run deploy crowdpulse-backend \
 
 1. **Clone the Repo**:
    ```bash
-   git clone https://github.com/balachandarchinta/CrowdPulseAI.git
+   git clone https://github.com/geeky-bhawuk-arora/sports-companion-platform.git
    ```
 
 2. **Backend**:
